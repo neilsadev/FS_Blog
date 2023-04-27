@@ -175,7 +175,7 @@ body.light-theme{
 
 .menu.activated {
     box-shadow: 1px 1px 1rem var(--transparent-light-color);
-    opacity: 0;
+    opacity: 1;
     transform: scale(1);
 }
 
